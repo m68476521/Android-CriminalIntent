@@ -126,6 +126,7 @@ public class CrimeListFragment extends Fragment {
     public void onResume() {
         super.onResume();
         updateUI();
+        
     }
 
     @Override
