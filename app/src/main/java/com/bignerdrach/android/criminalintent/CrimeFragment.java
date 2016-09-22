@@ -141,6 +141,8 @@ public class CrimeFragment extends Fragment {
             }
         });
 
+        //This is a test
+
         final Intent pickContact = new Intent(Intent.ACTION_PICK,
                 ContactsContract.Contacts.CONTENT_URI);
 
